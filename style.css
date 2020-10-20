@@ -1,0 +1,31 @@
+h1 {
+    color: #084C61;
+}
+.description{
+    color : #FFC857;
+    text-align: center;
+}
+
+body{
+    background-color: #177E89;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    color: #323031;
+}
+
+.picture{
+    border-radius: 20%;
+}
+
+a:visited{
+    color: #DB3A34;
+}
+.logic, .git ,.html {
+    font-size: 2em;
+}
+ul {
+    list-style: none;
+}
+.address{
+    font-style: oblique;
+}
