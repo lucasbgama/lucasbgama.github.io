@@ -3,7 +3,7 @@ h1 {
 }
 .description{
     color : #FFC857;
-    text-align: center;
+    text-align: justify;
 }
 
 body{
@@ -28,4 +28,29 @@ ul {
 }
 .address{
     font-style: oblique;
+}
+
+
+.pict{
+    float: left;
+    padding: 10px;
+    margin: 25px;
+    background-color: #084C61;
+}
+
+.descript {
+    margin: 35px;
+    padding: 10px;
+}
+
+.name {
+    text-align: center;
+}
+
+#habilidades {
+    
+    clear: both;
+}
+.skills li:nth-child(odd){
+    font-style: italic;
 }
